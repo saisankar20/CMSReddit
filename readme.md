@@ -131,5 +131,4 @@ To execute CountMinsketchRedditCompare.py:
 
 ---
 
-## License
-These scripts are released under the MIT License. Feel free to use, modify, and share them while providing appropriate credit.
+
